@@ -29,7 +29,7 @@ function play(question, answer) {
 
 // array of objects
 var questions = [{
-  question: "What is Palash's favourite social media platform instagram/youtube",
+  question: "What is my favourite social media platform instagram/youtube",
   answer: "Youtube"
 }, {
   question: "What's his favouriate color? ",
