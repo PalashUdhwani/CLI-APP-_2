@@ -8,7 +8,7 @@ var score = 0;
 
 var userName = readlineSync.question(chalk.white.bgBlue.bold("May I know your name? "));
 
-console.log(chalk.red.bgBlue.bold("Welcome "+ userName + " lets see how well you know Palash"));
+console.log(chalk.red.bgBlue.bold("Welcome "+ userName + " lets see how well you know me"));
 
 // play function
 function play(question, answer) {
